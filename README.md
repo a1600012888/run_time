@@ -9,11 +9,11 @@ caffe2
 ## How to run
 
 
-bash run.sh
+``` bash run.sh ```
 
 ## hyper-params
 
-There are two hyper-params in caffe_run.py 
+There are two hyper-params in ```caffe_run.py``` 
 * batch_size: the batch_size for each iteration. (Default: 1)
 * num_of_iterations: how many iterations we need to run to test the speed. (Default: 1000)
 
